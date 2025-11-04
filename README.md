@@ -2,8 +2,12 @@
   <img src="https://i.pinimg.com/1200x/7e/fa/cc/7efacc2d79cc416a7b76cf30de86f73b.jpg" width="1280px" alt="Banner Profil">
 </p> -->
 
-<p align = "center">
+<!-- <p align = "center">
   <img src="https://i.pinimg.com/1200x/ae/e2/f2/aee2f23b3c73d40cf5c4bb7fcb54cc5a.jpg" width="1280px">
+</p> -->
+
+<p align = "center">
+  <img src="https://i.pinimg.com/originals/df/e6/e4/dfe6e4b7a03407f8fba6ee8cf54dbfee.gif" width="1280px" height="300px">
 </p>
 
 <h1 align="center">
