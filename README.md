@@ -7,7 +7,7 @@
 </p> -->
 
 <p align = "center">
-  <img src="Sukuna-4 hosted at ImgBB.gif" width="1280px" height="300px">
+  <img src="Sukuna-4 hosted at ImgBB.gif" width="1280px">
 </p>
 
 <h1 align="center">
