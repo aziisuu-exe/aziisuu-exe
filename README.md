@@ -6,8 +6,12 @@
 </h3>
 <h4 align="center"> [Video Editing] [UI UX Design] [3D Modeling] [Cybersecurity] </h4>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.pinimg.com/1200x/7e/fa/cc/7efacc2d79cc416a7b76cf30de86f73b.jpg" alt="Banner Profil">
+</p> -->
+
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/aa/97/7d/aa977d2d1597799b50817c484fbdf8fe.jpg" width="1280px" alt="Banner Profil">
 </p>
 
 ---
