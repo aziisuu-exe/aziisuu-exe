@@ -5,10 +5,8 @@
 <h1 align="center">
   Halo! Saya Azis Alaudin Alam 👋
 </h1>
-<h3 align="center">
-  Saya seorang mahasiswa yang mempunyai minat yang tinggi pada 
-</h3>
-<h4 align="center"> [Video Editing] [UI UX Design] [3D Modeling] [Cybersecurity] </h4>
+
+<h4 align="center"> [Video Editing 💻]   [UI UX Design 🧩]   [3D Modeling 🎮]   [Cybersecurity 🔐] </h4>
 
 ---
 
@@ -20,7 +18,7 @@
 
 * 🌐 Saya saat ini sedang mendalami **Ethical Hacking**.
 * 📫 Cara tercepat menghubungi saya: **azisalam0@gmail.com**.
-* ⚡ Fakta menarik: **Saya suka menonton film dan mencari kuliner. Satu hal yang tidak saya sukai adalah Mendaki, karena melelahkan :v**.
+* ⚡ Fakta menarik: **Saya suka menonton film dan mencari kuliner. Satu hal yang tidak saya sukai adalah Mendaki, karena berjalan itu melelahkan :v**.
 
 ---
 
