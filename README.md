@@ -1,5 +1,9 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.pinimg.com/1200x/7e/fa/cc/7efacc2d79cc416a7b76cf30de86f73b.jpg" width="1280px" alt="Banner Profil">
+</p> -->
+
+<p align = "center">
+  <img src="https://i.pinimg.com/1200x/ae/e2/f2/aee2f23b3c73d40cf5c4bb7fcb54cc5a.jpg" width="1280px">
 </p>
 
 <h1 align="center">
